@@ -1,0 +1,101 @@
+district,sector,property_type,size_sqm,bedrooms,bathrooms,year_built,sell_date,price_rwf,furnished,parking_spaces,property_condition,neighborhood_rating,road_access,view_type,ownership_type,listing_type
+Kigali,Nyarugenge,Apartment,85,2,1,2015,3/15/2018,45000000,No,4,Good,4,Paved,Mountain View,Freehold,For Sale
+Kigali,Nyarugenge,House,150,3,2,2010,5/22/2018,75000000,No,1,Good,3,Dirt,Mountain View,Freehold,For Sale
+Kigali,Kicukiro,Apartment,92,2,1,2016,7/11/2018,48000000,No,5,Good,2,Paved,Mountain View,Freehold,For Sale
+Kigali,Gasabo,House,180,4,2,2014,9/30/2018,85000000,No,1,Needs Renovation,3,Dirt,None,Freehold,For Sale
+Kigali,Gasabo,Villa,250,5,3,2012,11/15/2018,120000000,Yes,2,new,1,Paved,City View,Freehold,For Sale
+Kigali,Kicukiro,Apartment,78,2,1,2017,1/25/2019,43000000,No,4,Good,2,Asphalt,None,Freehold,For Sale
+Kigali,Nyarugenge,Commercial,210,0,2,2011,3/12/2019,95000000,No,10,Good,3,Asphalt,None,Leasehold,For Sale
+Kigali,Gasabo,House,165,3,2,2015,4/28/2019,82000000,No,2,Good,4,Paved,None,Leasehold,For Rent
+Kigali,Kicukiro,Apartment,90,2,1,2018,6/17/2019,50000000,No,4,Needs Renovation,5,Dirt,None,Freehold,For Sale
+Kigali,Nyarugenge,House,140,3,2,2012,8/9/2019,72000000,No,0,Needs Renovation,1,Dirt,None,Freehold,For Sale
+Eastern,Rwamagana,Land,500,0,0,0,9/21/2019,15000000,No,1,N/A,1,Paved,None,Leasehold,For Sale
+Eastern,Kayonza,House,130,3,1,2014,11/7/2019,45000000,No,2,Good,2,Paved,None,Leasehold,For Sale
+Eastern,Ngoma,House,120,3,1,2010,1/19/2020,38000000,No,1,Good,2,Paved,Mountain View,Freehold,For Sale
+Southern,Huye,House,145,3,2,2012,3/5/2020,55000000,Yes,2,Good,3,Asphalt,Mountain View,Leasehold,For Sale
+Southern,Nyanza,House,135,3,1,2011,5/22/2020,48000000,No,1,Good,1,Paved,Garden View,Freehold,For Sale
+Western,Rubavu,Villa,220,4,3,2013,7/14/2020,95000000,Yes,3,Good,2,Dirt,Garden View,Leasehold,For Sale
+Western,Karongi,House,125,3,1,2015,9/29/2020,40000000,Yes,1,new,3,Paved,None,Leasehold,For Sale
+Northern,Musanze,House,150,3,2,2014,11/11/2020,60000000,Yes,1,new,4,Dirt,City View,Leasehold,For Sale
+Northern,Gicumbi,House,130,3,1,2009,1/25/2021,35000000,No,2,Needs Renovation,5,Dirt,None,Leasehold,For Sale
+Kigali,Gasabo,Apartment,105,2,2,2019,3/10/2021,60000000,Yes,1,Needs Renovation,5,Dirt,None,Freehold,For Sale
+Kigali,Nyarugenge,Commercial,250,0,3,2015,4/28/2021,105000000,Yes,1,Good,3,Asphalt,Mountain View,Freehold,For Sale
+Kigali,Kicukiro,House,175,4,2,2017,6/15/2021,95000000,Yes,3,Good,2,Asphalt,Garden View,Freehold,For Sale
+Eastern,Rwamagana,Land,600,0,0,0,8/3/2021,18000000,No,1,Good,1,Paved,None,Leasehold,For Rent
+Eastern,Kayonza,House,140,3,2,2016,9/27/2021,52000000,Yes,1,new,1,Paved,None,Leasehold,For Rent
+Southern,Huye,House,160,3,2,2015,11/14/2021,63000000,Yes,1,new,3,Paved,Mountain View,Leasehold,For Rent
+Western,Rubavu,House,185,4,2,2016,1/7/2022,82000000,Yes,1,new,3,Paved,City View,Leasehold,For Rent
+Northern,Musanze,Villa,190,4,2,2017,2/25/2022,75000000,Yes,3,Good,4,Asphalt,City View,Freehold,For Rent
+Kigali,Gasabo,Villa,280,5,3,2019,4/18/2022,135000000,Yes,2,Good,3,Paved,None,Leasehold,For Rent
+Kigali,Kicukiro,Apartment,95,2,1,2020,6/9/2022,55000000,No,4,Good,4,Dirt,None,Freehold,For Rent
+Kigali,Nyarugenge,House,155,3,2,2018,8/11/2022,86000000,Yes,1,Good,1,Dirt,Mountain View,Leasehold,For Sale
+Kigali,Gasabo,Apartment,110,3,2,2021,10/4/2022,68000000,Yes,3,Good,2,,Mountain View,Freehold,For Rent
+Eastern,Ngoma,Land,450,0,0,0,11/30/2022,14000000,No,0,N/A,3,Paved,None,Leasehold,For Sale
+Southern,Nyanza,House,145,3,2,2016,1/22/2023,60000000,Yes,1,Good,3,Paved,None,Freehold,For Sale
+Western,Karongi,House,135,3,1,2017,3/15/2023,45000000,No,2,Needs Renovation,4,Paved,None,Freehold,For Sale
+Northern,Gicumbi,House,140,3,1,2015,5/7/2023,42000000,No,1,Needs Renovation,4,Paved,City View,Freehold,For Sale
+Kigali,Nyarugenge,Apartment,100,2,2,2022,6/28/2023,65000000,Yes,3,Needs Renovation,1,Dirt,Garden View,Leasehold,For Sale
+Kigali,Kicukiro,House,190,4,2,2020,8/19/2023,105000000,Yes,1,Needs Renovation,2,Asphalt,Garden View,Leasehold,For Sale
+Kigali,Gasabo,Villa,265,5,3,2021,10/12/2023,145000000,Yes,4,Good,3,Asphalt,Mountain View,Leasehold,For Sale
+Eastern,Rwamagana,House,150,3,2,2018,12/5/2023,58000000,Yes,1,Good,3,Asphalt,Mountain View,Freehold,For Sale
+Southern,Huye,House,170,4,2,2019,1/27/2024,70000000,Yes,2,new,4,Dirt,Mountain View,Freehold,For Sale
+Western,Rubavu,Villa,230,5,3,2020,3/18/2024,110000000,Yes,3,new,4,Dirt,None,Freehold,For Sale
+Northern,Musanze,House,165,4,2,2018,5/9/2024,68000000,Yes,1,Good,2,Dirt,None,Freehold,For Sale
+Kigali,Gasabo,Apartment,115,3,2,2023,7/1/2024,75000000,Yes,4,Good,3,Dirt,None,Freehold,For Sale
+Kigali,Nyarugenge,Commercial,280,0,3,2021,8/23/2024,120000000,Yes,8,Good,3,Dirt,City View,Leasehold,For Sale
+Kigali,Kicukiro,Apartment,98,2,1,2022,10/14/2024,59000000,Yes,3,Good,3,Paved,City View,Leasehold,For Sale
+Kigali,Remera,House,95,3,2,2020,12/23/2023,71004291,Yes,1,Good,3,Asphalt,None,Freehold,For Sale
+Kigali,Kimironko,Apartment,204,4,2,2012,3/23/2019,83598461,Yes,0,Needs Renovation,5,Dirt,None,Freehold,For Sale
+Western,Kacyiru,House,247,4,4,2014,4/28/2020,96432728,Yes,3,Good,2,Dirt,Garden View,Freehold,For Rent
+Kigali,Gasabo,Apartment,157,4,3,2017,8/8/2022,90887690,No,0,Needs Renovation,4,Dirt,None,Freehold,For Rent
+Northern,Remera,Villa,142,3,1,2014,7/30/2020,63376242,Yes,1,New,1,Dirt,Mountain View,Leasehold,For Rent
+Southern,Remera,House,129,3,3,2013,4/23/2020,56948721,No,3,Good,4,Paved,None,Freehold,For Rent
+Eastern,Gasabo,Apartment,544,1,1,-1,4/29/2019,15545993,No,0,Good,3,Dirt,Garden View,Freehold,For Rent
+Southern,Kimironko,Apartment,176,4,2,2016,7/13/2021,58188682,No,3,New,5,Paved,Garden View,Leasehold,For Sale
+Kigali,Kacyiru,Apartment,298,5,2,2017,5/5/2022,126041383,No,1,New,2,Dirt,City View,Leasehold,For Rent
+Kigali,Kicukiro,Apartment,95,1,2,2017,4/30/2019,45420470,No,1,Good,4,Asphalt,City View,Leasehold,For Sale
+Eastern,Kacyiru,Villa,127,4,2,2009,1/21/2020,34567071,Yes,1,New,5,Asphalt,Mountain View,Leasehold,For Rent
+Kigali,Gasabo,Villa,84,3,2,2021,2/15/2025,56561755,No,3,Needs Renovation,3,Dirt,City View,Freehold,For Sale
+Northern,Remera,Apartment,208,5,3,2019,1/29/2022,70541354,Yes,0,Needs Renovation,5,Dirt,Mountain View,Leasehold,For Sale
+Southern,Nyarugenge,Villa,194,3,1,2019,6/5/2024,65163952,Yes,1,Good,2,Paved,Mountain View,Freehold,For Sale
+Kigali,Nyarugenge,Villa,153,4,1,2014,2/5/2020,75699968,No,1,Good,5,Asphalt,Garden View,Freehold,For Sale
+Kigali,Kimironko,Villa,151,4,3,2014,11/16/2018,88752159,No,3,Needs Renovation,3,Paved,City View,Leasehold,For Sale
+Kigali,Kicukiro,Villa,162,4,3,2019,6/1/2022,85200399,Yes,1,Good,5,Asphalt,None,Leasehold,For Rent
+Eastern,Nyarugenge,Villa,384,1,1,-1,2/28/2023,14356040,Yes,3,Good,3,Paved,Garden View,Freehold,For Rent
+Eastern,Kicukiro,Villa,109,2,2,2011,10/24/2019,39997850,Yes,3,Good,4,Paved,Mountain View,Leasehold,For Rent
+Kigali,Gasabo,House,163,4,1,2014,11/17/2018,86426331,No,0,Needs Renovation,2,Paved,City View,Leasehold,For Rent
+Kigali,Kacyiru,House,101,1,1,2020,10/31/2022,51634801,No,1,Needs Renovation,1,Asphalt,City View,Leasehold,For Rent
+Western,Nyarugenge,Apartment,107,2,2,2016,10/26/2020,41834078,No,2,Good,3,Paved,Mountain View,Freehold,For Rent
+Southern,Kimironko,House,151,2,3,2010,4/18/2020,58761016,Yes,0,Good,4,Asphalt,Garden View,Freehold,For Sale
+Kigali,Kicukiro,House,309,1,3,2023,1/15/2025,127394361,No,1,Good,5,Paved,None,Freehold,For Sale
+Southern,Kimironko,House,178,5,1,2017,9/18/2023,69743118,Yes,0,New,5,Dirt,City View,Leasehold,For Rent
+Western,Kimironko,Apartment,222,6,3,2022,3/28/2024,111686895,No,0,Good,1,Dirt,None,Freehold,For Rent
+Eastern,Kimironko,House,512,1,1,0,12/8/2019,13853143,No,1,New,4,Paved,Mountain View,Leasehold,For Sale
+Kigali,Kicukiro,House,150,4,3,2017,12/21/2020,87158910,Yes,3,Needs Renovation,2,Paved,None,Freehold,For Sale
+Northern,Kimironko,Apartment,168,3,2,2016,1/19/2022,81729668,Yes,2,Good,1,Dirt,Garden View,Freehold,For Rent
+Kigali,Gasabo,House,94,3,1,2019,1/6/2019,45174809,No,3,New,3,Paved,None,Leasehold,For Sale
+Kigali,Kicukiro,Villa,105,3,2,2023,12/22/2024,56110491,Yes,1,New,3,Paved,None,Leasehold,For Rent
+Southern,Kicukiro,Apartment,172,3,3,2013,12/25/2021,65143903,No,3,Needs Renovation,4,Asphalt,Mountain View,Freehold,For Sale
+Eastern,Remera,House,161,2,1,2018,3/6/2024,62356359,Yes,2,Needs Renovation,5,Asphalt,City View,Leasehold,For Rent
+Western,Kicukiro,Apartment,196,3,2,2016,4/14/2022,80481504,No,2,New,2,Dirt,Mountain View,Leasehold,For Sale
+Southern,Kimironko,Villa,119,3,1,2011,6/7/2020,50137549,Yes,1,Good,3,Paved,None,Leasehold,For Sale
+Eastern,Gasabo,Apartment,154,4,3,2018,2/8/2022,48747699,Yes,1,New,2,Asphalt,City View,Freehold,For Rent
+Eastern,Kicukiro,Villa,128,2,2,2012,2/14/2020,43146764,Yes,0,Good,2,Dirt,None,Leasehold,For Rent
+Northern,Kicukiro,House,143,5,3,2016,12/5/2023,68152191,No,3,New,4,Asphalt,None,Leasehold,For Rent
+Eastern,Remera,House,148,3,1,2016,11/19/2021,47744795,Yes,3,New,4,Asphalt,Mountain View,Freehold,For Rent
+Kigali,Kacyiru,Villa,87,1,1,2015,8/5/2018,41900317,No,0,Good,4,Asphalt,City View,Leasehold,For Rent
+Kigali,Kicukiro,Villa,185,4,3,2016,10/4/2019,84293262,No,3,Needs Renovation,4,Paved,Mountain View,Leasehold,For Rent
+Western,Kicukiro,Villa,264,6,2,2019,9/21/2023,114701167,No,0,New,1,Paved,Mountain View,Leasehold,For Rent
+Western,Gasabo,Villa,121,2,1,2015,12/8/2022,47335538,Yes,1,New,2,Asphalt,City View,Leasehold,For Sale
+Kigali,Kacyiru,House,197,1,1,2009,5/3/2019,92226106,No,2,New,1,Paved,City View,Freehold,For Rent
+Northern,Kacyiru,House,164,2,3,2013,2/14/2021,54333662,No,0,New,2,Dirt,Mountain View,Leasehold,For Rent
+Kigali,Kacyiru,House,108,1,1,2023,6/9/2023,59271798,Yes,3,Good,2,Dirt,Mountain View,Freehold,For Rent
+Kigali,Remera,Villa,83,3,1,2015,9/11/2018,42110568,No,1,Good,5,Paved,Garden View,Leasehold,For Rent
+Kigali,Kimironko,Villa,163,4,1,2010,4/24/2018,72408422,No,2,Good,5,Asphalt,Mountain View,Leasehold,For Sale
+Western,Remera,Apartment,119,4,1,2013,3/17/2021,39214924,No,1,Good,2,Paved,None,Freehold,For Rent
+Kigali,Nyarugenge,Apartment,76,3,1,2019,3/11/2019,48671036,Yes,3,New,1,Paved,Mountain View,Leasehold,For Sale
+Kigali,Kimironko,Villa,279,1,4,2020,10/2/2024,109101413,No,0,Needs Renovation,4,Dirt,City View,Leasehold,For Sale
+Western,Kicukiro,Apartment,203,5,2,2015,4/27/2020,86398515,No,0,Good,2,Dirt,Mountain View,Freehold,For Sale
+Eastern,Kicukiro,House,126,4,2,2011,5/10/2020,41271386,No,0,Needs Renovation,5,Paved,None,Leasehold,For Sale
+Eastern,Kimironko,Apartment,140,3,3,2015,6/30/2021,50098119,Yes,0,Good,4,Asphalt,None,Leasehold,For Sale
+Eastern,Remera,House,135,4,1,2016,4/20/2024,53190738,No,3,Needs Renovation,2,Asphalt,City View,Freehold,For Rent
